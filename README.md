@@ -11,5 +11,5 @@ Which amino-acid occurs the most? The least?
 Hint: access UniProt XML format SwissProt human proteins from 	http://www.uniprot.org/downloads -> “Taxonomic divisions”
 This file was too large to be uploaded to GitHub.
 
-#1c. How similar are the human amino-acid frequencies of in RefSeq and SwissProt? 
+How similar are the human amino-acid frequencies of in RefSeq and SwissProt? 
 Which amino-acids show the biggest difference in frequency?
